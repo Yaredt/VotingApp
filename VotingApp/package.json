@@ -1,0 +1,9 @@
+{
+  "name": "voting-app",
+  "version": "0.0.0",
+  "description": "VotingApp",
+  "main": "server.js",
+  "author": {
+    "name": "Yared.Tsegaye"
+  }
+}
