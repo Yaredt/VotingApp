@@ -1,1 +1,1 @@
-.\VotingApp/node_modules/.bin/mocha .\VotingApp\test/test.js
+.\VotingApp\node_modules\.bin\mocha .\VotingApp\test\test.js
