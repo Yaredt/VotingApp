@@ -1,0 +1,1 @@
+VotingAPp/node_modules/.bin/mocha VotingApp/test/test.js
